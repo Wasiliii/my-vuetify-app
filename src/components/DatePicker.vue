@@ -11,18 +11,18 @@
   </template>
   
   <script>
-import { createVuetify } from 'vuetify'
+// import { createVuetify } from 'vuetify'
 
-export const DatePicker = createVuetify({
-  theme: {
-    defaultTheme: 'light',
-  },
-})
+// export const DatePicker = createVuetify({
+//   theme: {
+//     defaultTheme: 'light',
+//   },
+// })
 
-//   export default {
-//     name: 'DatePicker',
+  export default {
+    name: 'DatePicker',
 
-//   }
+  }
   </script>
 
   
